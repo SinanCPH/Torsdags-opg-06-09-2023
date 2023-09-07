@@ -30,7 +30,7 @@ for (int takeOff = start; takeOff >= 0; takeOff--) {
   case 0:
     println("Take Off!");
     break;
-  default: //printer alle tal som man ikke vil gå op i
+  default: 
     println(takeOff);
   }
  

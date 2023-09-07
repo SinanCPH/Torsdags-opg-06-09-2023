@@ -26,7 +26,7 @@ int z = 7;
 
 
 if (x%10 != 0 && y%10 != 0 && z%10 != 0 &&  x + y + z == 30){
-  print ("Success"); //hverken x, y og z må ikke gå op i 30 
+  print ("Success");
 }
 else{
   print("failure..");

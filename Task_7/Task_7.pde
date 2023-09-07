@@ -10,8 +10,7 @@ for (int i = 0; i <= input; i++) {
   } else if (i == 10) {
     println("HALF");
   } else {
-    println(i); /*printer alle tal end 6 og 10, fordi det der hvor en af de "if" block of code bliver excuted i stedet for
-     else*/
+    println(i);
   }
 }
 
@@ -35,8 +34,7 @@ else {
     } else if (i == inputTwo/2) {
       println("HALF");
     } else {
-      println(i); /*printer alle tal end 6 og 10, fordi det der hvor en af de "if" block of code bliver excuted i stedet for
-       else*/
+      println(i); 
     }
   }
 }
